@@ -1,4 +1,4 @@
-# Official Code for Attentive Moment Retrieval in Videos
+# Official Code for Towards Micro-video Understanding by Joint Sequential-Sparse Modeling
 
 
 ## Introduction
