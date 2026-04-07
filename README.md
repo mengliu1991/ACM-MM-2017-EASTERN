@@ -62,10 +62,10 @@ For commercial projects that require distributing this code as part of a program
 If you find this project useful in your research, please consider citing:
 
 ```bibtex
-@inproceedings{liu2018attentive,
-  title={Attentive moment retrieval in videos},
-  author={Liu, Meng and Wang, Xiang and Nie, Liqiang and He, Xiangnan and Chen, Baoquan and Chua, Tat-Seng},
-  booktitle={The 41st international ACM SIGIR conference on research \& development in information retrieval},
-  pages={15--24},
-  year={2018}
+@inproceedings{10.1145/3123266.3123341,
+author = {Liu, Meng and Nie, Liqiang and Wang, Meng and Chen, Baoquan},
+title = {Towards Micro-video Understanding by Joint Sequential-Sparse Modeling},
+year = {2017},
+booktitle = {Proceedings of the 25th ACM International Conference on Multimedia},
+pages = {970–978}
 }
